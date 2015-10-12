@@ -13,7 +13,7 @@ import java.util.Timer;
 
 public class Poll {
 
-// poll values
+
     static List<Double> lat = new ArrayList<Double>();
     static List<Double> lng = new ArrayList<Double>();
 
